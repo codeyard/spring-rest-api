@@ -1,0 +1,6 @@
+app:
+    datasource:
+        jdbc-url: jdbc:postgresql://localhost:5432/springrestapi
+        username: postgres
+        password: dockerSQL
+        pool-size: 30
