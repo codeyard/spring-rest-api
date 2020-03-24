@@ -8,4 +8,4 @@ Amigoscode.
 
 ## Run Postgres Docker container
 
-`docker run --name postgres-spring -e POSTGRES_PASSWORD=dockerSQL -d -p 5432:5432 postgres:alpine
+`docker run --name postgres-spring -e POSTGRES_PASSWORD=dockerSQL -d -p 5432:5432 postgres:alpine`
